@@ -1,5 +1,8 @@
 <template>
-  <div id="about" class="p-5 my-5 container text-start h-100 justify-content-between shadow-sm">
+  <div
+    id="about"
+    class="p-5 my-5 container text-start h-100 justify-content-between shadow-sm"
+  >
     <div class="row p-5 my-5">
       <h2 class="text-center fw-bolder">About the collection</h2>
       <div class="row p-3 align-items-center" data-aos="fade-right">
@@ -12,23 +15,36 @@
             />
           </div>
         </div>
-        <div class="col-md-6 col-12 myself con" data-aos="zoom-in-up" data-aos-easing="ease-in">
-          <p class="text-black myself std soft">
-            Welcome to Voices of the African Pastoral Landscape. This digital collection presents an intimate look at four key animals—horses, cows, sheep, 
-            and goats—that are deeply intertwined with the pastoral and agricultural traditions across Africa. Each of these animals holds unique significance 
-            in African culture, whether as companions, sources of sustenance, or symbols within local stories and rituals.
-
-Through both imagery and audio recordings, this collection aims to celebrate the voices and presence of these animals. 
-By focusing on these sounds and scenes, we invite viewers to consider the nuanced relationships between humans and animals in Africa, moving away from often simplified Western narratives of domestication or agricultural labor. Instead, this collection offers an opportunity to explore African perspectives on kinship, respect, and 
-coexistence with animals in ways that challenge colonial interpretations of agriculture and animal husbandry.</p>
+        <div
+          class="col-md-6 col-12 myself con shadow-sm rounded-pill"
+          data-aos="zoom-in-up"
+          data-aos-easing="ease-in"
+        >
+          <p class="text-black myself std soft shadow-sm border border-4">
+            Welcome to Voices of the African Pastoral Landscape. This digital
+            collection presents an intimate look at four key animals—horses,
+            cows, sheep, and goats—that are deeply intertwined with the pastoral
+            and agricultural traditions across Africa. Each of these animals
+            holds unique significance in African culture, whether as companions,
+            sources of sustenance, or symbols within local stories and rituals.
+            Through both imagery and audio recordings, this collection aims to
+            celebrate the voices and presence of these animals. By focusing on
+            these sounds and scenes, we invite viewers to consider the nuanced
+            relationships between humans and animals in Africa, moving away from
+            often simplified Western narratives of domestication or agricultural
+            labor. Instead, this collection offers an opportunity to explore
+            African perspectives on kinship, respect, and coexistence with
+            animals in ways that challenge colonial interpretations of
+            agriculture and animal husbandry.
+          </p>
           <div class="row text-center m-auto">
             <div class="col">
-              <button class="btn">Hourses</button>
-              <button class="btn">Cows</button>
+              <button class="btn">Horse</button>
+              <button class="btn">Catle</button>
               <button class="btn">Goat</button>
               <button class="btn">Sheep</button>
               <button class="btn">Goat-Sound</button>
-              <button class="btn">Cow-Sound</button>
+              <button class="btn">Catle-Sound</button>
             </div>
           </div>
         </div>
@@ -84,7 +100,13 @@ img {
 }
 
 .con {
-  background: linear-gradient(95deg, #d49828, hsla(34, 78%, 49%, 0.773), hsla(41, 83%, 46%, 0.305), #d0b966);
+  background: linear-gradient(
+    95deg,
+    #d49828,
+    hsla(34, 78%, 49%, 0.773),
+    hsla(41, 83%, 46%, 0.305),
+    #d0b966
+  );
   height: auto;
   padding: 20px;
   margin: auto;
@@ -94,9 +116,16 @@ img {
   padding: 5px;
   text-align: justify;
   font-size: 1em;
-  font-family: 'Gill Sans', 'Gill Sans MT';
+  font-family: "Gill Sans", "Gill Sans MT";
   color: #000;
   font-weight: 500;
+  background: linear-gradient(
+    95deg,
+    #d0b966,
+    hsla(34, 78%, 49%, 0.773),
+    hsla(41, 83%, 46%, 0.305),
+    #d0b966
+  );
 }
 
 h2 {

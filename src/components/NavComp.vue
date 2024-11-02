@@ -1,51 +1,51 @@
 <template>
-    <div>
-        <nav class="navbar navbar-expand-lg ">
-          <div class="container-fluid">
-            <a class="navbar-brand" href="#"
-              ><img src="https://i.postimg.cc/1RkGGxhH/android-chrome-192x192.png"
-            /></a>
-            <button
-              class="navbar-toggler"
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#navbarNav"
-              aria-controls="navbarNav"
-              aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav m-auto">
-                <li class="nav-item text-white">
-                  <router-link class="text-decoration-none text-black" to="/"
-                    >Home</router-link
-                  >
-                </li>
-                <li class="nav-item text-decoration-none">
-                  <router-link class="text-decoration-none text-black" to="/about"
-                    >About the collection</router-link
-                  >
-                </li>
-                <li class="nav-item">
-                  <router-link
-                    class="text-decoration-none text-black"
-                    to="/education"
-                    >Browse collection</router-link
-                  >
-                </li>
-                <li class="nav-item">
-                  <router-link class="text-decoration-none text-black" to="/skills"
-                    >Essay</router-link
-                  >
-                </li>
-              </ul>
-            </div>
-          </div>
-        </nav>
+  <div>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#"
+          ><img src="https://i.postimg.cc/1RkGGxhH/android-chrome-192x192.png"
+        /></a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav m-auto">
+            <li class="nav-item text-white">
+              <router-link class="text-decoration-none text-black" to="/"
+                >Home</router-link
+              >
+            </li>
+            <li class="nav-item text-decoration-none">
+              <router-link class="text-decoration-none text-black" to="/about"
+                >About the collection</router-link
+              >
+            </li>
+            <li class="nav-item">
+              <router-link
+                class="text-decoration-none text-black"
+                to="/browse"
+                >Browse collection</router-link
+              >
+            </li>
+            <li class="nav-item">
+              <router-link class="text-decoration-none text-black" to="/essay"
+                >Essay</router-link
+              >
+            </li>
+          </ul>
+        </div>
       </div>
-      <router-view />
+    </nav>
+  </div>
+  <router-view />
 </template>
 
 <style scoped>
@@ -75,7 +75,7 @@ nav {
   position: fixed;
   width: 100%;
   top: 0;
-  background-color:#ee6b06fe;
+  background-color: #d49828;
   z-index: 50;
 }
 </style>

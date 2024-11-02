@@ -51,7 +51,7 @@
     bottom: 0;
     width: 100%;
     padding: 1px;
-    background-color:#ee6b06fe;
+    background-color:#d49828;
     z-index: 50;
   }
   
