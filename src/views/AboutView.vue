@@ -20,33 +20,89 @@
           data-aos="zoom-in-up"
           data-aos-easing="ease-in"
         >
-          <p class="text-black myself std soft shadow-sm border border-4">
-            Welcome to Voices of the African Pastoral Landscape. This digital
-            collection presents an intimate look at four key animals—horses,
-            cows, sheep, and goats—that are deeply intertwined with the pastoral
-            and agricultural traditions across Africa. Each of these animals
-            holds unique significance in African culture, whether as companions,
-            sources of sustenance, or symbols within local stories and rituals.
-            Through both imagery and audio recordings, this collection aims to
-            celebrate the voices and presence of these animals. By focusing on
-            these sounds and scenes, we invite viewers to consider the nuanced
-            relationships between humans and animals in Africa, moving away from
-            often simplified Western narratives of domestication or agricultural
-            labor. Instead, this collection offers an opportunity to explore
-            African perspectives on kinship, respect, and coexistence with
-            animals in ways that challenge colonial interpretations of
-            agriculture and animal husbandry.
+        <hr>
+        <p class="text-black myself soft shadow-sm border border-4">
+           
+        </p>
+       
+        <br>
+        <br>
+
+        <p class="text-black myself soft shadow-sm border border-4">
+           
+        </p>
+          <p class="text-black myself soft shadow-sm border border-4">
+            Welcome to the African Heritage Digital Collection – a unique
+            digital space dedicated to preserving and celebrating the rich,
+            multifaceted history of Africa's cultural and economic relationships
+            with livestock. Our mission is to create a collection that shines a
+            light on the historical and modern roles of animals like horses,
+            cattle, goats, and sheep in African societies, challenging Western
+            narratives that often overlook their significance.
           </p>
+         <hr>
           <div class="row text-center m-auto">
             <div class="col">
-              <button class="btn">Horse</button>
-              <button class="btn">Catle</button>
-              <button class="btn">Goat</button>
-              <button class="btn">Sheep</button>
-              <button class="btn">Goat-Sound</button>
-              <button class="btn">Catle-Sound</button>
+              <button class="btn"><a href="https://www.britannica.com/animal/horse" target="_blank">Horse</a></button>
+              <button class="btn"><a href="https://en.wikipedia.org/wiki/Cattle" target="_blank">Catle</a> </button>
+              <button class="btn"><a href="https://www.four-paws.org/campaigns-topics/animals/goat" target="_blank">Goat</a></button>
+              <button class="btn"><a href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Sheep" target="_blank">Sheep</a></button>
+              <button class="btn"><a href="your link" target="_blank"></a>Goat-Sound</button>
+              <button class="btn"><a href="your link" target="_blank"></a>Catle-Sound</button>
             </div>
           </div>
+        </div>
+        <div>
+          <p
+            class="text-black myself soft shadow-sm text-align-justify border border-4"
+          >
+          <h6 class="text-black text-bold text-center">Our vision</h6>
+            Our vision is to create a space where African heritage can thrive in
+            the digital age. As we grow, we will continue adding items and
+            collaborating with communities and researchers to expand our
+            collection, bringing even more African voices and perspectives into
+            the global conversation.
+          </p>
+          
+          <p
+            class="text-black myself soft shadow-sm text-align-justify border border-4"
+          >
+          <h6 class="text-black text-bold text-center">Our Mission</h6>
+            At African Heritage Digital Collection, we believe that Africa’s
+            stories deserve to be told in a way that honors their depth,
+            diversity, and authenticity. By documenting and curating traditional
+            and modern uses of livestock, we aim to provide a valuable resource
+            for educators, students, and anyone interested in the continent’s
+            cultural heritage. We prioritize African perspectives to help build
+            a balanced understanding of history, challenging colonial and
+            globalization-driven interpretations that have, for too long, shaped
+            global views.
+          </p>
+         
+          <p
+            class="text-black myself soft shadow-sm text-align-justify border border-4"
+          >
+          <h6 class="text-black text-bold text-center">What We Offer</h6>
+           Our digital collection brings together various types
+          of media to create an engaging, immersive experience. Through
+          photos, videos, artifacts, and born-digital creations, we aim to
+          give visitors a meaningful journey through time. Each piece in our
+          collection is carefully selected, digitized, and presented with
+          detailed metadata to ensure accessibility, context, and an enduring
+          online presence.
+          </p>
+          <p
+            class="text-black myself soft shadow-sm text-align-justify border border-4"
+          >
+          <h6 class="text-black text-bold text-center">Ethics and Preservation</h6>
+          We are committed to
+          ethical practices in digital curation. Each object in our collection
+          is displayed with respect for its cultural significance and
+          intellectual property rights. We employ standardized metadata
+          practices using Dublin Core to enhance accessibility and long-term
+          preservation, ensuring that this knowledge is available to future
+          generations.
+          </p>
         </div>
       </div>
     </div>
