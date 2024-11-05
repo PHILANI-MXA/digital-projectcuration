@@ -1,13 +1,16 @@
 <template>
   <div class="container p-5 my-5 min-vh-100">
     <div class="text-container p-5 my-5">
-      <hr>
+      
+      <hr />
       <h4>
-        Echoes of the Past: The Role and Significance of Livestock in African
-        Society from Ancient Traditions to the Digital Age
+        Traditional and Modern Roles of Livestock in the Eastern Cape, South Africa.
       </h4>
-      <h2>Voices of the African Pastoral Landscape</h2>
-      <h4>Explore the collection <br />& Listen to their voices</h4>
+      <h2>A digital collection of Animals kept as Livestock</h2>
+      <h4>
+        A Digital Collection of Horses, Cattle, Goats, and Sheep in Cultural
+        Ceremonies and Societal Development. <br />& Listen to their voices
+      </h4>
     </div>
   </div>
 </template>
@@ -146,6 +149,16 @@ body {
 }
 h2 {
   font-size: 3.2em !important;
+  margin-top: 40px;
+  text-align: center;
+  color: #0a342b;
+  font-weight: 500 !important;
+  text-shadow: 1px 1px 1px #000, 3px 3px 5px rgb(224, 138, 18);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+h6 {
+  font-size: 1.2em !important;
   margin-top: 40px;
   text-align: center;
   color: #0a342b;
