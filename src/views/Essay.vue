@@ -15,7 +15,9 @@
           <h4 class="text-center text-md-left p-5 my-4">Embedded Essay</h4>
           <div class="card-body text-center text-md-left">
             <h6 class="card-title"><strong>Final Assignment: DC</strong></h6>
-            <h6 class="card-text">A brief summary of the digital collection.</h6>
+            <h6 class="card-text">
+              A brief summary of the digital collection.
+            </h6>
             <iframe
               src=""
               frameborder="0"
@@ -30,6 +32,17 @@
     </div>
   </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      // Provide the URL to your Word document (e.g., hosted on OneDrive)
+      documentURL:
+        "https://view.officeapps.live.com/op/embed.aspx?src=YOUR_DOCUMENT_URL",
+    };
+  },
+};
+</script>
 
 <style scoped lang="scss">
 *,

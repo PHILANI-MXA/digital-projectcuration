@@ -47,8 +47,8 @@
               <button class="btn"><a href="https://en.wikipedia.org/wiki/Cattle" target="_blank">Catle</a> </button>
               <button class="btn"><a href="https://www.four-paws.org/campaigns-topics/animals/goat" target="_blank">Goat</a></button>
               <button class="btn"><a href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Sheep" target="_blank">Sheep</a></button>
-              <button class="btn"><a href="your link" target="_blank"></a>Goat-Sound</button>
-              <button class="btn"><a href="your link" target="_blank"></a>Catle-Sound</button>
+              <button class="btn"><a href="https://www.mediamusicnow.co.uk/royalty-free-sound-effects/animals/goat-sounds" target="_blank">Goat-Sound</a></button>
+              <button class="btn"><a href="https://www.youtube.com/watch?v=WHi3EVwBqR4" target="_blank">Catle-Sound</a></button>
             </div>
           </div>
         </div>
