@@ -34,7 +34,7 @@
       <div class="row">
         <div class="col-md-6 mb-3">
           <img
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/0jq59R9m/Horse-2.jpg"
             class="img-fluid rounded"
             alt="Horse with Cattles"
           />
@@ -63,7 +63,7 @@
       <div class="row">
         <div class="col-md-6 mb-3">
           <img
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/13zmmK1W/Cattle.jpg"
             class="img-fluid rounded"
             alt="Horse with Cattles"
           />
@@ -92,7 +92,7 @@
       <div class="row">
         <div class="col-md-6 mb-3">
           <img
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/JzjfWDGT/Horse-image.jpg"
             class="img-fluid rounded"
             alt="Horse with Cattles"
           />
@@ -121,7 +121,7 @@
       <div class="row">
         <div class="col-md-6 mb-3">
           <img
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/rscTv19N/Amatakane.jpg"
             class="img-fluid rounded"
             alt="Horse with Cattles"
           />
@@ -150,7 +150,7 @@
       <div class="row">
         <div class="col-md-6 mb-3">
           <img
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/7Zckx8V6/Sheeps.jpg"
             class="img-fluid rounded"
             alt="Horse with Cattles"
           />

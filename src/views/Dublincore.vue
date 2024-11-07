@@ -7,7 +7,7 @@
           <div class="col-md-6 p-2 my-3">
             <img
               class="img-fluid"
-              src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+              src="https://i.postimg.cc/ZqC5cxf9/sheep-image.jpg"
               alt=""
             />
           </div>
@@ -107,7 +107,7 @@
         <div class="col-md-6 p-2 my-3">
           <img
             class="img-fluid"
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/y6Xs0GVQ/Cow.jpg"
             alt=""
           />
         </div>
@@ -306,7 +306,7 @@
         <div class="col-md-6 p-3 my-2">
           <img
             class="img-fluid"
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/3wVJb06t/Horse.jpg"
             alt=""
           />
         </div>
@@ -405,7 +405,7 @@
         <div class="col-md-6 p-3 my-2">
           <img
             class="img-fluid"
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/C5fvHX8v/Goat-image.jpg"
             alt=""
           />
         </div>
