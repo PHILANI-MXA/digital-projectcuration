@@ -11,14 +11,14 @@
               alt=""
             />
           </div>
-          <div class="col-md-3">
+          <div class="col-md-6">
             <div class="row">
               <table class="table table-striped">
                 <thead>
                   <tr>
-                    <th scope="col">#</th>
-                    <th scope="col">Element</th>
-                    <th scope="col">Value</th>
+                    <th scope="col-md-1">#</th>
+                  <th scope="col-md-2">Element</th>
+                  <th scope="col-md-3">Value</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -111,14 +111,14 @@
             alt=""
           />
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
           <div class="row">
             <table class="table table-striped">
               <thead>
                 <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">Element</th>
-                  <th scope="col">Value</th>
+                  <th scope="col-md-1">#</th>
+                  <th scope="col-md-2">Element</th>
+                  <th scope="col-md-3">Value</th>
                 </tr>
               </thead>
               <tbody>
@@ -206,45 +206,45 @@
         <div class="col-md-6 p-2 my-3">
           <img
             class="img-fluid"
-            src="https://i.postimg.cc/05tJ5LZn/Horse-withcattles.jpg"
+            src="https://i.postimg.cc/htZbGghH/imagebackground.jpg"
             alt=""
           />
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
           <div class="row">
             <table class="table table-striped">
               <thead>
                 <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">Element</th>
-                  <th scope="col">Value</th>
+                  <th scope="col-md-1">#</th>
+                  <th scope="col-md-2">Element</th>
+                  <th scope="col-md-3">Value</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <th scope="row">1</th>
                   <td>Contributor</td>
-                  <td>Xhosa culture</td>
+                  <td>Philani</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
                   <td>Coverage</td>
-                  <td>__</td>
+                  <td>Cape Town, Green Market Square</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td>Creator</td>
-                  <td>__</td>
+                  <td>_Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
                   <td>Date</td>
-                  <td>__</td>
+                  <td>07/10/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
                   <td>Description</td>
-                  <td>__</td>
+                  <td>Cultural items on sale</td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>
@@ -259,12 +259,12 @@
                 <tr>
                   <th scope="row">8</th>
                   <td>Language</td>
-                  <td>__</td>
+                  <td>IsiXhosa</td>
                 </tr>
                 <tr>
                   <th scope="row">9</th>
                   <td>Publisher</td>
-                  <td>__</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">10</th>
@@ -294,7 +294,7 @@
                 <tr>
                   <th scope="row">15</th>
                   <td>Type</td>
-                  <td>__</td>
+                  <td>Image.png</td>
                 </tr>
               </tbody>
             </table>
@@ -310,14 +310,14 @@
             alt=""
           />
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
           <div class="row">
             <table class="table table-striped">
               <thead>
                 <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">Element</th>
-                  <th scope="col">Value</th>
+                  <th scope="col-md-1">#</th>
+                  <th scope="col-md-2">Element</th>
+                  <th scope="col-md-3">Value</th>
                 </tr>
               </thead>
               <tbody>
@@ -409,14 +409,14 @@
             alt=""
           />
         </div>
-        <div class="col-md-3">
+        <div class="col-md-6">
           <div class="row">
             <table class="table table-striped">
               <thead>
                 <tr>
-                  <th scope="col">#</th>
-                  <th scope="col">Element</th>
-                  <th scope="col">Value</th>
+                  <th scope="col-md-1">#</th>
+                  <th scope="col-md-2">Element</th>
+                  <th scope="col-md-3">Value</th>
                 </tr>
               </thead>
               <tbody>
@@ -503,3 +503,82 @@
     </div>
   </div>
 </template>
+
+<style scoped>
+.container {
+  max-width: 100%;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.img-fluid {
+  width: 100%;
+  height: 500px;
+}
+
+/* Responsive Table */
+.table {
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* Responsive Layout */
+@media (max-width: 992px) {
+  /* Medium screens */
+  .col-md-6,
+  .col-md-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Small screens */
+  .container {
+    padding: 1rem;
+  }
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .col-md-6,
+  .col-md-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .table thead {
+    display: none; /* Hide table headers */
+  }
+  .table td,
+  .table th {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+  .table tr {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 1rem;
+  }
+  .table td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+}
+
+@media (max-width: 576px) {
+  /* Extra small screens */
+  .img-fluid {
+    max-height: 300px;
+  }
+  .table {
+    font-size: 0.9rem;
+  }
+  .p-5 {
+    padding: 1rem !important;
+  }
+}
+</style>
