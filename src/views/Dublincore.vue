@@ -25,77 +25,80 @@
                   <tr>
                     <th scope="row">1</th>
                     <td>Contributor</td>
-                    <td>Xhosa culture</td>
+                    <td>Philani</td>
                   </tr>
                   <tr>
                     <th scope="row">2</th>
                     <td>Coverage</td>
-                    <td>__</td>
+                    <td>Cape Town, Green Market Square</td>
                   </tr>
                   <tr>
                     <th scope="row">3</th>
                     <td>Creator</td>
-                    <td>__</td>
+                    <td>_Philani Mxathule</td>
                   </tr>
                   <tr>
                     <th scope="row">4</th>
                     <td>Date</td>
-                    <td>__</td>
+                    <td>07/10/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">5</th>
                     <td>Description</td>
-                    <td>__</td>
+                    <td>
+                      The domestic goat is a type of goat-antelope commonly
+                      raised as livestock.
+                    </td>
                   </tr>
                   <tr>
                     <th scope="row">6</th>
                     <td>Format</td>
-                    <td>__</td>
+                    <td>Image, PNG</td>
                   </tr>
                   <tr>
                     <th scope="row">7</th>
                     <td>Identifier</td>
-                    <td>__</td>
+                    <td>image002</td>
                   </tr>
                   <tr>
                     <th scope="row">8</th>
                     <td>Language</td>
-                    <td>__</td>
+                    <td>N/A</td>
                   </tr>
                   <tr>
                     <th scope="row">9</th>
                     <td>Publisher</td>
-                    <td>__</td>
+                    <td>Philani Mxathule</td>
                   </tr>
                   <tr>
                     <th scope="row">10</th>
                     <td>Relation</td>
-                    <td>__</td>
+                    <td>Animal in cultural context</td>
                   </tr>
                   <tr>
                     <th scope="row">11</th>
                     <td>Rights</td>
-                    <td>__</td>
+                    <td>All rights reserved</td>
                   </tr>
                   <tr>
                     <th scope="row">12</th>
                     <td>Source</td>
-                    <td>__</td>
+                    <td>file path</td>
                   </tr>
                   <tr>
                     <th scope="row">13</th>
                     <td>Subject</td>
-                    <td>__</td>
+                    <td>Cultural heritage, market items</td>
                   </tr>
                   <tr>
                     <th scope="row">14</th>
                     <td>Title</td>
-                    <td>__</td>
+                    <td>White goat</td>
                   </tr>
                   <tr>
                     <th scope="row">15</th>
                     <td>Type</td>
-                    <td>__</td>
+                    <td>Image.png</td>
                   </tr>
                 </tbody>
               </table>
@@ -125,77 +128,80 @@
                 <tr>
                   <th scope="row">1</th>
                   <td>Contributor</td>
-                  <td>Xhosa culture</td>
+                  <td>Philani</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
                   <td>Coverage</td>
-                  <td>__</td>
+                  <td>Cape Town, Green Market Square</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td>Creator</td>
-                  <td>__</td>
+                  <td>_Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
                   <td>Date</td>
-                  <td>__</td>
+                  <td>07/10/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
                   <td>Description</td>
-                  <td>__</td>
+                  <td>
+                    The domestic goat is a type of goat-antelope commonly raised
+                    as livestock.
+                  </td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>
                   <td>Format</td>
-                  <td>__</td>
+                  <td>Image, PNG</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
                   <td>Identifier</td>
-                  <td>__</td>
+                  <td>image002</td>
                 </tr>
                 <tr>
                   <th scope="row">8</th>
                   <td>Language</td>
-                  <td>__</td>
+                  <td>N/A</td>
                 </tr>
                 <tr>
                   <th scope="row">9</th>
                   <td>Publisher</td>
-                  <td>__</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">10</th>
                   <td>Relation</td>
-                  <td>__</td>
+                  <td>Animal in cultural context</td>
                 </tr>
                 <tr>
                   <th scope="row">11</th>
                   <td>Rights</td>
-                  <td>__</td>
+                  <td>All rights reserved</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
                   <td>Source</td>
-                  <td>__</td>
+                  <td>file path</td>
                 </tr>
                 <tr>
                   <th scope="row">13</th>
                   <td>Subject</td>
-                  <td>__</td>
+                  <td>Cultural heritage, market items</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
                   <td>Title</td>
-                  <td>__</td>
+                  <td>White goat</td>
                 </tr>
                 <tr>
                   <th scope="row">15</th>
                   <td>Type</td>
-                  <td>__</td>
+                  <td>Image.png</td>
                 </tr>
               </tbody>
             </table>
@@ -324,77 +330,80 @@
                 <tr>
                   <th scope="row">1</th>
                   <td>Contributor</td>
-                  <td>Xhosa culture</td>
+                  <td>Philani</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
                   <td>Coverage</td>
-                  <td>__</td>
+                  <td>Cape Town, Green Market Square</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td>Creator</td>
-                  <td>__</td>
+                  <td>_Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
                   <td>Date</td>
-                  <td>__</td>
+                  <td>07/10/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
                   <td>Description</td>
-                  <td>__</td>
+                  <td>
+                    The domestic goat is a type of goat-antelope commonly raised
+                    as livestock.
+                  </td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>
                   <td>Format</td>
-                  <td>__</td>
+                  <td>Image, PNG</td>
                 </tr>
                 <tr>
                   <th scope="row">7</th>
                   <td>Identifier</td>
-                  <td>__</td>
+                  <td>image002</td>
                 </tr>
                 <tr>
                   <th scope="row">8</th>
                   <td>Language</td>
-                  <td>__</td>
+                  <td>N/A</td>
                 </tr>
                 <tr>
                   <th scope="row">9</th>
                   <td>Publisher</td>
-                  <td>__</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">10</th>
                   <td>Relation</td>
-                  <td>__</td>
+                  <td>Animal in cultural context</td>
                 </tr>
                 <tr>
                   <th scope="row">11</th>
                   <td>Rights</td>
-                  <td>__</td>
+                  <td>All rights reserved</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
                   <td>Source</td>
-                  <td>__</td>
+                  <td>file path</td>
                 </tr>
                 <tr>
                   <th scope="row">13</th>
                   <td>Subject</td>
-                  <td>__</td>
+                  <td>Cultural heritage, market items</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
                   <td>Title</td>
-                  <td>__</td>
+                  <td>White goat</td>
                 </tr>
                 <tr>
                   <th scope="row">15</th>
                   <td>Type</td>
-                  <td>__</td>
+                  <td>Image.png</td>
                 </tr>
               </tbody>
             </table>
@@ -443,7 +452,10 @@
                 <tr>
                   <th scope="row">5</th>
                   <td>Description</td>
-                  <td>The domestic goat is a type of goat-antelope commonly raised as livestock.</td>
+                  <td>
+                    The domestic goat is a type of goat-antelope commonly raised
+                    as livestock.
+                  </td>
                 </tr>
                 <tr>
                   <th scope="row">6</th>

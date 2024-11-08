@@ -2,7 +2,6 @@
   <div
     class="container-fluid p-5 min-vh-100 d-flex align-items-center justify-content-center"
   >
-    <br /><br />
     <div class="text container my-5">
       <div class="row align-items-center my-5">
         <div class="col-md-5 col-12 text-center text-md-left mb-md-0">
@@ -18,27 +17,38 @@
             <h6 class="card-text">
               A brief summary of the digital collection.
             </h6>
+            <!-- Embedded PDF iframe -->
             <iframe
-              src=""
+              src="https://online.flippingbook.com/view/110819200/"
+              class="pdf-container"
               frameborder="0"
-              width="100%"
-              height="300px"
-              class="my-3"
             ></iframe>
-            <a href="" download="" class="btn btn-success mt-3">Download</a>
+
+            <!-- Alternative: Embedded PDF using embed -->
+            <!-- <embed src="https://example.com/path-to-your-file.pdf" 
+             width="100%" height="500px" type="application/pdf" class="pdf-container"> -->
+
+            <!-- Download Button -->
+            <a
+              href="https://example.com/path-to-your-file.pdf"
+              download
+              class="download-btn"
+              >Download PDF</a
+            >
+            <a :href="pdfURL" download class="btn btn-success mt-3">Download</a>
           </div>
         </div>
       </div>
     </div>
   </div>
 </template>
+
 <script>
 export default {
   data() {
     return {
-      // Provide the URL to your Word document (e.g., hosted on OneDrive)
-      documentURL:
-        "https://view.officeapps.live.com/op/embed.aspx?src=YOUR_DOCUMENT_URL",
+      // Replace with the URL to your PDF file (hosted online or relative path if using local server)
+      pdfURL: "../assets/docs/Philani Mxathule - LIS5032 Assignment 2.docx", // Change this to your PDF URL
     };
   },
 };
