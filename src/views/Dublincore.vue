@@ -17,7 +17,7 @@
                 <thead>
                   <tr>
                     <th scope="col-md-1">#</th>
-                    <th scope="col-md-2">Element</th>
+                    <th scope="col-md-2 text-start">Element</th>
                     <th scope="col-md-3">Value</th>
                   </tr>
                 </thead>
@@ -25,29 +25,29 @@
                   <tr>
                     <th scope="row">1</th>
                     <td>Contributor</td>
-                    <td>Philani</td>
+                    <td>Philani Mxathule</td>
                   </tr>
                   <tr>
                     <th scope="row">2</th>
                     <td>Coverage</td>
-                    <td>Cape Town, Green Market Square</td>
+                    <td>Internet, Unsplash, RSA</td>
                   </tr>
                   <tr>
                     <th scope="row">3</th>
                     <td>Creator</td>
-                    <td>_Philani Mxathule</td>
+                    <td>Philani Mxathule</td>
                   </tr>
                   <tr>
                     <th scope="row">4</th>
                     <td>Date</td>
-                    <td>07/10/2024</td>
+                    <td>01/11/2024</td>
                   </tr>
                   <tr>
                     <th scope="row">5</th>
                     <td>Description</td>
                     <td>
-                      The domestic goat is a type of goat-antelope commonly
-                      raised as livestock.
+                      Sheep standing in a green meadow. The sheep has a thick
+                      wool coat facing the camera.
                     </td>
                   </tr>
                   <tr>
@@ -78,7 +78,7 @@
                   <tr>
                     <th scope="row">11</th>
                     <td>Rights</td>
-                    <td>All rights reserved</td>
+                    <td>Philani Mxathule © 2024 . All rights reserved</td>
                   </tr>
                   <tr>
                     <th scope="row">12</th>
@@ -88,12 +88,12 @@
                   <tr>
                     <th scope="row">13</th>
                     <td>Subject</td>
-                    <td>Cultural heritage, market items</td>
+                    <td>Sheep, Livestock, Agriculture, Wool Production</td>
                   </tr>
                   <tr>
                     <th scope="row">14</th>
                     <td>Title</td>
-                    <td>White goat</td>
+                    <td>Domestic sheep</td>
                   </tr>
                   <tr>
                     <th scope="row">15</th>
@@ -133,12 +133,12 @@
                 <tr>
                   <th scope="row">2</th>
                   <td>Coverage</td>
-                  <td>Cape Town, Green Market Square</td>
+                  <td>Internet, Unsplash, RSA</td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td>Creator</td>
-                  <td>_Philani Mxathule</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -149,8 +149,7 @@
                   <th scope="row">5</th>
                   <td>Description</td>
                   <td>
-                    The domestic goat is a type of goat-antelope commonly raised
-                    as livestock.
+                    Brown Cow standing in a lush, green mountainous area. The animal has a calm expression. 
                   </td>
                 </tr>
                 <tr>
@@ -191,12 +190,12 @@
                 <tr>
                   <th scope="row">13</th>
                   <td>Subject</td>
-                  <td>Cultural heritage, market items</td>
+                  <td>Cow, Livestock, Nature, Mountain, Pasture.</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
                   <td>Title</td>
-                  <td>White goat</td>
+                  <td>Brown and White Cow.</td>
                 </tr>
                 <tr>
                   <th scope="row">15</th>
@@ -240,7 +239,7 @@
                 <tr>
                   <th scope="row">3</th>
                   <td>Creator</td>
-                  <td>_Philani Mxathule</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -280,7 +279,7 @@
                 <tr>
                   <th scope="row">11</th>
                   <td>Rights</td>
-                  <td>All rights reserved</td>
+                  <td>Philani Mxathule © 2024 . All rights reserved</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
@@ -330,7 +329,7 @@
                 <tr>
                   <th scope="row">1</th>
                   <td>Contributor</td>
-                  <td>Philani</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
@@ -345,14 +344,13 @@
                 <tr>
                   <th scope="row">4</th>
                   <td>Date</td>
-                  <td>07/10/2024</td>
+                  <td>02/11/2024</td>
                 </tr>
                 <tr>
                   <th scope="row">5</th>
                   <td>Description</td>
                   <td>
-                    The domestic goat is a type of goat-antelope commonly raised
-                    as livestock.
+                   Brown horse with a light-colored mane. The horse has peaceful posture.
                   </td>
                 </tr>
                 <tr>
@@ -398,7 +396,7 @@
                 <tr>
                   <th scope="row">14</th>
                   <td>Title</td>
-                  <td>White goat</td>
+                  <td>Brown Horse</td>
                 </tr>
                 <tr>
                   <th scope="row">15</th>
@@ -485,7 +483,7 @@
                 <tr>
                   <th scope="row">11</th>
                   <td>Rights</td>
-                  <td>All rights reserved</td>
+                  <td>Philani Mxathule © 2024. All rights reserved</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
