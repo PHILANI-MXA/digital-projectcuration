@@ -180,7 +180,7 @@
                 <tr>
                   <th scope="row">11</th>
                   <td>Rights</td>
-                  <td>All rights reserved</td>
+                  <td>Philani Mxathule © 2024 . All rights reserved</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
@@ -381,7 +381,7 @@
                 <tr>
                   <th scope="row">11</th>
                   <td>Rights</td>
-                  <td>All rights reserved</td>
+                  <td>Philani Mxathule © 2024. All rights reserved</td>
                 </tr>
                 <tr>
                   <th scope="row">12</th>
@@ -391,7 +391,7 @@
                 <tr>
                   <th scope="row">13</th>
                   <td>Subject</td>
-                  <td>Cultural heritage, market items</td>
+                  <td>Horse, Animal, Pasture, Nature</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
@@ -451,7 +451,7 @@
                   <th scope="row">5</th>
                   <td>Description</td>
                   <td>
-                    The domestic goat is a type of goat-antelope commonly raised
+                    Domestic goat, commonly raised
                     as livestock.
                   </td>
                 </tr>
@@ -493,7 +493,7 @@
                 <tr>
                   <th scope="row">13</th>
                   <td>Subject</td>
-                  <td>Cultural heritage, market items</td>
+                  <td>Goat, Livestock, Animal</td>
                 </tr>
                 <tr>
                   <th scope="row">14</th>
