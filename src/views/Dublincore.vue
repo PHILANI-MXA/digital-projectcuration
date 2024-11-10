@@ -149,7 +149,8 @@
                   <th scope="row">5</th>
                   <td>Description</td>
                   <td>
-                    Brown Cow standing in a lush, green mountainous area. The animal has a calm expression. 
+                    Brown Cow standing in a lush, green mountainous area. 
+                    The animal has a calm expression. 
                   </td>
                 </tr>
                 <tr>
@@ -440,7 +441,7 @@
                 <tr>
                   <th scope="row">3</th>
                   <td>Creator</td>
-                  <td>_Philani Mxathule</td>
+                  <td>Philani Mxathule</td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>

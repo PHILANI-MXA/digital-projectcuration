@@ -18,41 +18,15 @@
               A brief summary of the digital collection.
             </h6>
             <!-- Embedded PDF iframe -->
-            <iframe
-              src="https://online.flippingbook.com/view/110819200/"
-              class="pdf-container"
-              frameborder="0"
-            ></iframe>
-
-            <!-- Alternative: Embedded PDF using embed -->
-            <!-- <embed src="https://example.com/path-to-your-file.pdf" 
-             width="100%" height="500px" type="application/pdf" class="pdf-container"> -->
-
-            <!-- Download Button -->
-            <a
-              href="https://example.com/path-to-your-file.pdf"
-              download
-              class="download-btn"
-              >Download PDF</a
-            >
-            <a :href="pdfURL" download class="btn btn-success mt-3">Download</a>
+            <div>
+              <iframe :src="pdfUrl" width="100%" height="600px"></iframe>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
 </template>
-
-<script>
-export default {
-  data() {
-    return {
-      // Replace with the URL to your PDF file (hosted online or relative path if using local server)
-      pdfURL: "../assets/docs/Philani Mxathule - LIS5032 Assignment 2.docx", // Change this to your PDF URL
-    };
-  },
-};
-</script>
 
 <style scoped lang="scss">
 *,
